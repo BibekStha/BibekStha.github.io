@@ -1,11 +1,5 @@
-# STATIC
+# Portfolio
 
-**This directory is not required, you can delete it if you don't want to use it.**
+This portfolio is a Single Page Application created using NuxtJs (A VueJs framework) and Tailwind CSS.
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+You can check out the dev code [here](https://github.com/BibekStha/bibekstha.github.io-dev).
